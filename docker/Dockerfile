@@ -1,4 +1,4 @@
-FROM python:3.7.7-slim
+FROM python:3.9-slim
 
 ENV MICRO_SERVICE=/portfolio-app
 # set work directory
